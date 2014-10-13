@@ -1,0 +1,15 @@
+@import "normalize.css";
+.browsehappy {
+    margin: 0;
+    background: #dc3228;
+    color: #ffffff;
+    padding: 10px 0;
+  text-align: center;
+}
+.browsehappy a{
+  color: #ffffff;
+}
+.main h1{ 
+ text-align: center;
+  padding-top: 300px;
+}
